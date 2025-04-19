@@ -16,6 +16,7 @@ Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame.BorderSizePixel = 0
 Frame.Position = UDim2.new(0.223518848, 0, 0.493801653, 0)
 Frame.Size = UDim2.new(0, 158, 0, 136)
+Frame.Draggable = true
 
 Title.Name = "Title"
 Title.Parent = ScreenGui
