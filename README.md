@@ -2,8 +2,8 @@
 A lil script for the game "How High Can You Jump?"
 The script includes features such as:
 * Auto Jump
-* Auto Drink
-
+* Auto Drink (Keep your drink equiped as it does not work without it!)
+  
 Soon to be added
 * Auto Rebirth
 
